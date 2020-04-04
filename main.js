@@ -15,7 +15,7 @@ function setup() {
     }
     
     function draw() {
-      background(50);
+      background(255,255,100);
       stroke(255);
       shapes[0].show();
       shapes[1].show();
